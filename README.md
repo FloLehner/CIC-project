@@ -1,11 +1,12 @@
 # CIC-project
 
-Applikationsbeschreibung 
+<b>Applikationsbeschreibung </b>
 
 Dieses Frontend enthält eine Single Page Application über San Franciscos Geschichte als Filmdestination.
 Des Weiteren beinhaltet sie nützliche Informationen über San Francisco selbst.
 
 Allgemeines:
+
 Im Header wurde eine Navigation-Bar aus 4 Glyphicons integriert. Jedes dieser 4 Glyphicons verlinkt auf eine bestimmte Sektion 
 der Seite. Klickt der User auf eines dieser Glyphicons springt die Seite auf die verlinkte Sektion.
 
@@ -21,17 +22,20 @@ aktualisiert, um den nächstes Fun Fact im Block darzustellen.
 Mit Hilfe einer Tabelle werden einige der zuletzt gedrehten TV-Serien und Filme dargestellt.
 
 Darstellung:
+
 Bei dieser Single Page Application wurde großer Wert auf Responsive Design gelegt. Mit Hilfe von media queries im main.css file
 wird sicher gestellt, dass die Web-Applikation auf den gängigsten Bildschirmgrößen optimal dargestellt wird. Des Weitern wird
 das Framework Bootstrap verwendet. 
 
 Verwendete media queries:
+
 Große Bildschirme (Desktop PC, Laptop): @media only screen and (min-width: 1025px){}
 Mittlere Bildschirme (Tablet): @media only screen and (min-width : 768px) and (max-width : 1024px) {}
 Kleine Bildschirme (Smartphone): @media only screen and (max-width : 767px){}
 
 
 Funktionalität:
+
 Um die Funktionalität der Single Page Application zu gewährleisten wird JavaScript sowie jQuery verwendet. Die Funktionen befinden sich in 
 den JavaScript Dateien main.js und logic.js welche beide in das HTML-file eingebunden wurden. Das main.js File ist zuständig für
 die $(document).ready() Funktion und beinhaltet die click() Funktionen sowie den Timer für den Fun Fact Block. Die Hauptlogik
@@ -43,6 +47,7 @@ This web application contains a so called single page application about San Fran
 Moreover it provides useful information about the city itself. 
 
 General Information:
+
 The header includes a navigation bar which contains 4 glyphicons. Each glyphicon represents a certain section of the 
 application. As soon as the user clicks on one of them the page will jump to the section linked to the glyphicon. 
 
@@ -57,12 +62,14 @@ strings and a timer that updates the Fun Facts block every 10 seconds.
 Last but not least a table displays relevant information about recently produced films an TV-series.
 
 Graphical representation:
+
 One of the main goals during the development process of this single page application was to create a web application that
 supports a wide range of screen sizes. As a consequence the application features three different media queries located in the 
 main.css file in order to ensure a good performance on every screen size. Moreover the application includes the 
 Bootstrap framework. 
 
 Used media queries:
+
 Big screens (Desktop PC, Laptop): @media only screen and (min-width: 1025px){}
 Medium screens (Tablet): @media only screen and (min-width : 768px) and (max-width : 1024px) {}
 Small screns (Smartphone): @media only screen and (max-width : 767px){}
