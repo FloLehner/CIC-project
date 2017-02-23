@@ -30,7 +30,9 @@ das Framework Bootstrap verwendet.
 Verwendete media queries:
 
 Große Bildschirme (Desktop PC, Laptop): @media only screen and (min-width: 1025px){}
+
 Mittlere Bildschirme (Tablet): @media only screen and (min-width : 768px) and (max-width : 1024px) {}
+
 Kleine Bildschirme (Smartphone): @media only screen and (max-width : 767px){}
 
 
@@ -41,7 +43,7 @@ den JavaScript Dateien main.js und logic.js welche beide in das HTML-file eingeb
 die $(document).ready() Funktion und beinhaltet die click() Funktionen sowie den Timer für den Fun Fact Block. Die Hauptlogik
 befindet sich dann im logic.js file. 
 
-Application description 
+<b>Application description</b> 
 
 This web application contains a so called single page application about San Francisco its history as film destination.
 Moreover it provides useful information about the city itself. 
@@ -71,7 +73,9 @@ Bootstrap framework.
 Used media queries:
 
 Big screens (Desktop PC, Laptop): @media only screen and (min-width: 1025px){}
+
 Medium screens (Tablet): @media only screen and (min-width : 768px) and (max-width : 1024px) {}
+
 Small screns (Smartphone): @media only screen and (max-width : 767px){}
 
 Functionality:
