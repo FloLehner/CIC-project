@@ -1,0 +1,598 @@
+@media only screen and (min-width: 1025px){
+#headerRow{
+    background-color: white;
+    text-align: left;
+}
+#sanfranName{
+    width:75%;
+    font-size: 40px;
+    position:relative;
+    margin-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+
+#introText{
+   font-size: 20px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 5%;
+}
+#filmText{
+   font-size: 20px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 5%; 
+}
+#sightsText{
+   font-size: 20px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 5%; 
+}
+
+#sanFranImage{
+    position:relative;
+    width: 105.3%;
+    height: 30%;
+}
+#sanFranImageText{
+   font-size: 30px;
+   position: absolute; 
+   width: 40%;
+   top: 40%; 
+   left: 35%; 
+   right:35%;
+   color: whitesmoke;
+   
+    
+}
+.imageContainer{
+    position:relative;
+    width:100%;
+    margin-bottom: 5%;
+     
+}
+#introName{
+    font-size: 40px;
+    position:relative;
+    margin-left: 25px;
+      
+}
+#filmName{
+  font-size: 40px;
+    position:relative;
+    margin-left: 25px;   
+}
+#funFactName{
+   font-size: 40px;
+    position:relative;
+    margin-left: 25px;
+     
+}
+#sightsName{
+   font-size: 40px;
+    position:relative;
+    margin-left: 25px;
+     
+}
+#map{
+    width: 105.3%;
+    height: 500px;
+    margin-bottom: 5%;
+    
+}
+#filmTable{
+margin-left: 25px; 
+margin-bottom: 5%;
+}
+#sliderContent{
+
+
+font-size: 20px; 
+margin-left: 25px;
+margin-right: 25px;
+padding-top: 5%;
+margin-bottom: 5%;
+}
+
+#slider{
+width: 106.5%;
+height: 300px;
+background-color: orange; 
+margin-bottom: 5%;
+}
+
+#golgenGateBridgeButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+background-color: gold;
+border-color: #ec971f;
+margin-left: 10px;
+}
+#alcatrazButton{
+width:100%;
+height:200px; 
+border-style: solid;
+border-width:5px;
+border-radius: 10px;
+background-color: burlywood;
+border-color: darkred;
+margin-left: 10px;
+}
+#unionSquareButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-width: 5px;
+border-radius: 10px;
+background-color: #c1e2b3;
+border-color: #4cae4c;
+margin-left: 10px;
+}
+#wharfButton{
+width:100%;
+height:200px; 
+border-width: 5px;
+border-style: solid;
+border-radius: 10px;
+background-color: cornflowerblue;
+border-color: royalblue;
+margin-left: 10px;
+
+}
+#chinaTownButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+background-color: #f5e79e;
+border-color: #d43f3a;
+margin-left: 10px;
+}
+#cableCarsButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+border-color: slategrey;
+margin-left: 10px;
+}
+#buttonRow1{
+    margin-bottom: 5%;
+}
+#infoGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+#mapGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+#thumbsGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+#filmGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+}
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+
+#headerRow{
+    background-color: white;
+    text-align: left;
+}
+#sanfranName{
+    width:70%;
+    font-size: 40px;
+    position:relative;
+    margin-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+#introText{
+   font-size: 17px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 5%;
+}
+#filmText{
+   font-size: 17px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 5%; 
+}
+#sightsText{
+   font-size: 17px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 5%; 
+}
+
+#sanFranImage{
+    position:relative;
+    width: 106.5%;
+    height: 30%;
+}
+#sanFranImageText{
+   font-size: 30px;
+   position: absolute; 
+   width: 40%;
+   top: 40%; 
+   left: 35%; 
+   right:35%;
+   color: whitesmoke;
+   
+    
+}
+.imageContainer{
+    position:relative;
+    width:100%;
+    margin-bottom: 5%;
+     
+}
+
+#introName{
+    font-size: 35px;
+    position:relative;
+    margin-left: 25px;
+      
+}
+
+#filmName{
+  font-size: 35px;
+    position:relative;
+    margin-left: 25px;   
+}
+#funFactName{
+   font-size: 35px;
+    position:relative;
+    margin-left: 25px;
+     
+}
+#sightsName{
+   font-size: 35px;
+    position:relative;
+    margin-left: 25px;
+     
+}
+
+#map{
+    width: 106.5%;
+    height: 400px;
+    margin-bottom: 5%;
+    
+}
+#filmTable{
+margin-left: 25px; 
+margin-bottom: 5%;
+}
+
+#sliderContent{
+font-size: 20px; 
+margin-left: 25px;
+margin-right: 25px;
+padding-top: 5%;
+margin-bottom: 5%;
+}
+
+#slider{
+width: 108%;
+height: 250px;
+background-color: orange; 
+margin-bottom: 5%;
+}
+
+#golgenGateBridgeButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+background-color: gold;
+border-color: #ec971f;
+margin-left: 10px;
+}
+#alcatrazButton{
+width:100%;
+height:200px; 
+border-style: solid;
+border-width:5px;
+border-radius: 10px;
+background-color: burlywood;
+border-color: darkred;
+margin-left: 10px;
+}
+#unionSquareButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-width: 5px;
+border-radius: 10px;
+background-color: #c1e2b3;
+border-color: #4cae4c;
+margin-left: 10px;
+}
+#wharfButton{
+width:100%;
+height:200px; 
+border-width: 5px;
+border-style: solid;
+border-radius: 10px;
+background-color: cornflowerblue;
+border-color: royalblue;
+margin-left: 10px;
+
+}
+#chinaTownButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+background-color: #f5e79e;
+border-color: #d43f3a;
+margin-left: 10px;
+}
+#cableCarsButton{
+width:100%;
+height:200px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+border-color: slategrey;
+margin-left: 10px;
+}
+
+#buttonRow1{
+    margin-bottom: 5%;
+}
+
+
+#infoGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+#mapGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+#thumbsGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+#filmGlyphicon{
+    width:5%;
+    font-size:30px;
+}
+
+}
+
+@media only screen and (max-width : 767px){
+#headerRow{
+    background-color: white;
+    text-align: left;
+}
+#sanfranName{
+    width:58%;
+    font-size: 23px;
+    position:relative;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+} 
+
+#introText{
+   font-size: 14px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 10%;
+}
+#filmText{
+   font-size: 14px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 10%; 
+}
+#sightsText{
+   font-size: 14px; 
+   margin-left: 25px;
+   padding-top: 10px;
+   margin-bottom: 10%; 
+}
+
+
+#sanFranImage{
+    position:relative;
+    width: 110%;
+    height: 30%;
+}
+#sanFranImageText{
+   font-size: 20px;
+   position: absolute; 
+   width: 60%;
+   top: 40%; 
+   left: 20%; 
+   right:20%;
+   color: whitesmoke;   
+}
+
+.imageContainer{
+    position:relative;
+    width:100%;
+    margin-bottom: 5%;
+     
+}
+
+#introName{
+    font-size: 20px;
+    position:relative;
+    margin-left: 25px;
+      
+}
+
+#filmName{
+  font-size: 20px;
+    position:relative;
+    margin-left: 25px;   
+}
+#funFactName{
+   font-size: 20px;
+    position:relative;
+    margin-left: 25px;
+     
+}
+#sightsName{
+   font-size: 20px;
+    position:relative;
+    margin-left: 25px;
+     
+}
+
+
+
+#map{
+    width: 110%;
+    height: 250px;
+    margin-bottom: 10%;
+    
+}
+#filmTable{
+margin-left: 25px; 
+margin-bottom: 10%;
+}
+
+#sliderContent{
+font-size: 16px; 
+margin-left: 25px;
+margin-right: 25px;
+padding-top: 5%;
+margin-bottom: 5%;
+}
+
+#slider{
+width: 114.5%;
+height: 230px;
+background-color: orange; 
+margin-bottom: 10%;
+}
+
+
+
+
+
+#golgenGateBridgeButton{
+width:100%;
+height:100px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+background-color: gold;
+border-color: #ec971f;
+margin-left: 10px;
+
+}
+#alcatrazButton{
+width:100%;
+height:100px; 
+border-style: solid;
+border-width:5px;
+border-radius: 10px;
+background-color: burlywood;
+border-color: darkred;
+margin-left: 10px;
+}
+#unionSquareButton{
+width:100%;
+height:100px;
+border-style: solid;
+border-width: 5px;
+border-radius: 10px;
+background-color: #c1e2b3;
+border-color: #4cae4c;
+margin-left: 10px;
+}
+#wharfButton{
+width:100%;
+height:100px; 
+border-width: 5px;
+border-style: solid;
+border-radius: 10px;
+background-color: cornflowerblue;
+border-color: royalblue;
+margin-left: 10px;
+
+}
+#chinaTownButton{
+width:100%;
+height:100px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+background-color: #f5e79e;
+border-color: #d43f3a;
+margin-left: 10px;
+
+}
+#cableCarsButton{
+width:100%;
+height:100px;
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+border-color: slategrey;
+margin-left: 10px;
+}
+
+#buttonRow1{
+    margin-bottom: 5%;
+}
+
+
+
+
+
+#infoGlyphicon{
+    width:8%;
+    font-size:20px;
+}
+#mapGlyphicon{
+    width:8%;
+    font-size:20px;
+}
+#thumbsGlyphicon{
+    width:8%;
+    font-size:20px;
+}
+#filmGlyphicon{
+    width:8%;
+    font-size:20px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
